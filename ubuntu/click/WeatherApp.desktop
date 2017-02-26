@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=WeatherApp
+Comment=Description of WeatherApp
+Exec=./WeatherApp --local=./share/js/index.js --plugins-path=./plugins
+Icon=share/icons/WeatherApp.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
